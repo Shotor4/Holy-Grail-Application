@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kogsio/react-holygrail.git"
+    "url": "git+https://github.com/shotor4/Holy-Grail-Application"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kogsio/react-holygrail/issues"
+    "url": "https://github.com//shotor4/Holy-Grail-Application/issues"
   },
-  "homepage": "https://github.com/kogsio/react-holygrail#readme",
+  "homepage": "https://github.com//shotor4/Holy-Grail-Application",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.15",
