@@ -1,7 +1,7 @@
 {
-  "name": "react-holygrail",
+  "name": "Holy-Grail-Application",
   "version": "1.0.0",
-  "description": "holy grail column data using redis",
+  "description": "Holy Grail column data using redis",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
